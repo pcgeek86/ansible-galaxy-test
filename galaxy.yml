@@ -1,0 +1,8 @@
+namespace: trevor
+name: trevor-macos
+version: 0.1
+readme: README.md
+authors:
+  - Trevor Sullivan <trevor@trevorsullivan.net>
+description: This is a test Ansible collection
+repository: https://github.com/pcgeek86/ansible-galaxy-test
